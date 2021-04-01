@@ -1,0 +1,11 @@
+{
+  "name": "mcs",
+  "version": "1.0.0",
+  "description": "Monte Carlo Simulation",
+  "main": "mcs.js",
+  "author": "vvgomes",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
+}
