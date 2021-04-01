@@ -11,7 +11,7 @@ The above command will create a Docker image containing the appropriate executio
 
 ## Running 
 
-`$ docker run --rm -t mcs <min-input> <max-input> <num-of-runs>.`
+`$ docker run --rm -t mcs <min-input> <max-input> <num-of-runs>`
 
 Sample run:
 
@@ -27,3 +27,7 @@ $ docker run --rm -t mcs 0 6 10
 ```
 
 That works for simple cases where all values in the input range have the same probability of ocurring.
+
+## License
+
+No license.
